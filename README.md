@@ -132,7 +132,7 @@ Both APIs are **free and require no authentication**.
 ## Author
 
 Alberto Zorzano Gamazo — Industrial Engineer (MSc candidate)
-[LinkedIn](https://linkedin.com/in/albertozorzano) · [GitHub](https://github.com/albertozorzano)
+[LinkedIn]([https://linkedin.com/in/albertozorzano](https://www.linkedin.com/in/alberto-zorzano-287254264/)) · [GitHub]([https://github.com/albertozorzano](https://github.com/albertozorzano-engineering))
 
 ---
 
