@@ -38,13 +38,13 @@ The model reveals what actually drives electricity prices in Spain:
 | R²     | 94.2% |
 
 ### Feature importance
-![Feature importance](resultados/feature_importance.png)
+![Feature importance](resultados/feature_importance.PNG)
 
 ### 72-hour prediction vs reality
-![Prediction vs reality](resultados/prediccion_vs_realidad.png)
+![Prediction vs reality](resultados/prediccion_vs_realidad.PNG)
 
 ### Industrial optimization panel (example)
-![Industrial panel](resultados/panel_industrial.png)
+![Industrial panel](resultados/panel_industrial.PNG)
 
 ---
 
