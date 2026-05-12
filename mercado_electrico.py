@@ -291,7 +291,7 @@ def visualizar_resultados(y_test, pred, modelo, X, mae, r2):
     ax1.plot(y_test.index[-n:], pred[-n:],
              color='#E74C3C', linewidth=2, linestyle='--', marker='x', markersize=3,
              label=f'Predicción IA (MAE={mae:.1f} €/MWh)')
-    ax1.set_title('Prueba de Fuego: Últimas 72 horas', fontweight='bold')
+    ax1.set_title('Últimas 72 horas', fontweight='bold')
     ax1.set_ylabel('Precio €/MWh')
     ax1.legend()
     ax1.grid(True, alpha=0.3)
