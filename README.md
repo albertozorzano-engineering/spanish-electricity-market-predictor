@@ -41,7 +41,7 @@ The model reveals what actually drives electricity prices in Spain:
 ![Feature importance](resultados/feature_importance.PNG)
 
 ### 72-hour prediction vs reality
-![Prediction vs reality](resultados/prediccion_vs_realidad.PNG)
+![Prediction vs reality](resultados/prediccion_vs_realidad.png)
 
 ### Industrial optimization panel (example)
 ![Industrial panel](resultados/panel_industrial.PNG)
